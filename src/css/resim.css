@@ -1,0 +1,11 @@
+.resimler {
+    display: flex;
+    gap: 10px;
+}
+
+.resimler img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    display: flex;
+}

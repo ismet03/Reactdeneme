@@ -1,0 +1,12 @@
+.baslık {
+    height: 70px;
+    width: 100%;
+    color: beige;
+    background-color: rgb(100, 182, 210);
+
+}
+
+.title {
+    font-size: 20px;
+    padding-top: 5px;
+}
